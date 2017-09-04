@@ -6,6 +6,7 @@
     <Description>Visual Studio's Tutorial for ASP.NET MVC .NET Core</Description>
     <Authors>danilo.meglioli</Authors>
     <Company>dmeglioDev</Company>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
